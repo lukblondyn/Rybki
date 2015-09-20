@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Akwarium()
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ dodajRybe()
+comment2.text=\ \ public\ void\ dodajSiatke()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ if(Greenfoot.mousePressed(this))\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ Siatka\ siatka\ \=\ new\ Siatka();\r\n\ \ \ \ \ \ \ \ \ \ \ \ int\ x\ \=\ Greenfoot.getMouseInfo().getX();\r\n\ \ \ \ \ \ \ \ \ \ \ \ int\ y\ \=\ Greenfoot.getMouseInfo().getY();\r\n\ \ \ \ \ \ \ \ \ \ \ \ addObject(siatka,\ x,\ y);\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ }\r\n
+numComments=3
